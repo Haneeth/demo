@@ -27,4 +27,4 @@ This is the Procfile content of my web app.
 
 
 ## Link to the Website on Heroku
-https://bostonprice.herokuapp.com/
+https://bostonpricepredi.herokuapp.com/
